@@ -10,7 +10,7 @@
 
 ## Mendeklarasikan CSS Internal
 
-![Gambar 2](Screenshot/Menambahkan%20Inline%20CSS.png)
+![Gambar 2](Screenshot/Mendeklarasikan%20CSS%20Internal.png)
 
 ## Menambahkan Inline CSS
 
@@ -22,7 +22,7 @@
 
 ## Menambahkan CSS Sseelector
 
-![Gambar 5](Screenshot/Mendeklarasikan%20CSS%20Internal.png)
+![Gambar 5](Screenshot/Menambahkan%20CSS%20Selector.png)
 
 # Pertanyaan dan Tugas Praktikum CSS
 
