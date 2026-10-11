@@ -6,23 +6,23 @@
 
 ## Membuat Dokumen HTML
 
-![Gambar 1](Screenshot/Membuat Dokumen HTML.png)
+![Gambar 1](Screenshot/Membuat%20Dokumen%20HTML.png)
 
 ## Mendeklarasikan CSS Internal
 
-![Gambar 2](Screenshot/Mendeklarasikan CSS Internal.png)
+![Gambar 2](Screenshot/Menambahkan%20Inline%20CSS.png)
 
 ## Menambahkan Inline CSS
 
-![Gambar 3](Screenshot/Menambahkan Inline CSS.png)
+![Gambar 3](Screenshot/Menambahkan%20Inline%20CSS.png)
 
 ## Membuat CSS Eksternal
 
-![Gambar 4](Screenshot/Membuat CSS Eksternal.png)
+![Gambar 4](Screenshot/Menambahkan%20CSS%20Eksternal.png)
 
-## Menambahkan CSS Selector
+## Menambahkan CSS Sseelector
 
-![Gambar 5](Screenshot/Menambahkan CSS Selector.png)
+![Gambar 5](Screenshot/Mendeklarasikan%20CSS%20Internal.png)
 
 # Pertanyaan dan Tugas Praktikum CSS
 
